@@ -8,7 +8,7 @@ This repository contains the source code for the Agrotrade application, which in
 
 # Clone the repository: 
 ```bash
-git clone https://github.com/georgen1998/agrotrade.git
+git clone https://github.com/gpotamianos/AGROTRADE.git
 ```
 
 ## Run backend server (api)
